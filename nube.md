@@ -1,6 +1,6 @@
 ---
 title: Fundamentos de uso de la nube 
-subtitle: Curso: Tópicos Avanzados de Inteligencia Artificial
+subtitle: Tópicos Avanzados de Inteligencia Artificial
 layout: page
 hero_image: /curso-2025-2/img/bolitas-banner.jpg
 hero_darken: true
