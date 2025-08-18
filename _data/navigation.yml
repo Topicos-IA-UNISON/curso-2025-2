@@ -1,0 +1,11 @@
+- name: Fundamentos nube
+  link: /nube
+- name: Este es el camino
+  link: /#
+  dropdown:
+    - name: IA Generativa
+      link: /ia/
+    - name: Ingeniería de Datos 
+      link: /id/
+    - name: Seguridad en la Nube
+      link: /seg/  
