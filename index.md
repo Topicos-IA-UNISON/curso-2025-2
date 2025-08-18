@@ -41,7 +41,7 @@ se espera reducir la competencia y motivar a los participantes a
 colaborar. Además, los proyectos pueden cambiar el enfoque del
 aprendizaje, estimulando la exploración de ideas.
 
-Esta estrategia no excluye la presentacion de temas por parte del
+Esta estrategia no excluye la presentación de temas por parte del
 maestro y ejercicios a desarrollar por el alumno; sin embargo, estas
 actividades no son fines en sí, sino que son generadas y completadas
 con el fin de alcanzar algún objetivo o para solucionar algún
@@ -50,7 +50,7 @@ proyecto con dificultades reales por enfrentar.
 
 ## ¿Porqué un curso democrático?
 
-De acuerso a la [Escuela para la paz, de la Universidad Autónoma de
+De acuerdo a la [Escuela para la paz, de la Universidad Autónoma de
 Barcelona](http://escolapau.uab.cat/index.php?lang=es):
 
 Una de las principales características de la perspectiva pedagógica
@@ -62,9 +62,9 @@ también su medio.
 Para valorar la importancia que esta innovación puede suponer,
 conviene tener en cuenta el desarrollo de la democracia participativa
 en la escuela como una de las mejores herramientas para aprender a
-construir la noviolencia; para mejorar la calidad de la vida en la
+construir la no violencia; para mejorar la calidad de la vida en la
 escuela y las relaciones que en ella se establecen; para disminuir los
-conflictos provocados por la trasgresión de las normas; para ayudar a
+conflictos provocados por la transgresión de las normas; para ayudar a
 prevenir la violencia y desarrollar en los propios alumnos el sentido
 de responsabilidad, además de las diversas y complejas capacidades y
 habilidades (cognitivas, emocionales y conductuales) necesarias para
@@ -106,9 +106,9 @@ en un contexto tan pequeño como es el curso.
 
 ## Acuerdos para el curso
 
-Se decidió por mantener 3 caminos de prendizaje independientes, pero todos basados en la misma premisa: prepararse para poder desarrollar métodos de IA, ingeniaría de datos o seguridad en la nube. 
+Se decidió por mantener 3 caminos de aprendizaje independientes, pero todos basados en la misma premisa: prepararse para poder desarrollar métodos de IA, ingeniería de datos o seguridad en la nube.
 
-La Universidad de Sonora es institución afiliada al *AWS Academy*, lo que nos permite contar con recursos y capacitación de Amazon Web Services para enriquecer el aprendizaje de los estudiantes. En ese sentido, todos los estudiantes, por acuerdo, van a tomar el curso:
+La Universidad de Sonora es institución afiliada al *AWS Academy* a partir del verano de 2025, lo que nos permite contar con recursos y capacitación de Amazon Web Services para enriquecer el aprendizaje de los estudiantes. En ese sentido, todos los estudiantes, por acuerdo, van a tomar el curso:
 
 **AWS Academy Cloud Foundations**
 
