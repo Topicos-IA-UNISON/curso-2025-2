@@ -23,31 +23,6 @@ democrático, vamos a iniciar por decidir entre todos los temas a desarrollar
 durante el curso y la forma en que vamos a evaluarnos, a partir de
 un consenso entre los participantes (estudiantes y profesor).
 
-
-## ¿Porqué una estrategia didáctica de aprendizaje orientada a proyectos?
-
-El aprendizaje orientado a proyectos busca enfrentar a los estudiantes
-a situaciones que los lleven a rescatar, comprender y aplicar aquello
-que aprenden como una herramienta para resolver problemas. Esta
-estrategia de enseñanza constituye un modelo de instrucción en el que
-los estudiantes planean, implementan y evalúan proyectos que tienen
-una potencial aplicación más allá del aula.
-
-Cuando se utiliza el método de proyectos como estrategia, los
-estudiantes estimulan sus habilidades más fuertes y desarrollan
-algunas nuevas. Se motiva en ellos el interés por el aprendizaje y un
-sentimiento de responsabilidad y esfuerzo. Al trabajar con proyectos
-se espera reducir la competencia y motivar a los participantes a
-colaborar. Además, los proyectos pueden cambiar el enfoque del
-aprendizaje, estimulando la exploración de ideas.
-
-Esta estrategia no excluye la presentación de temas por parte del
-maestro y ejercicios a desarrollar por el alumno; sin embargo, estas
-actividades no son fines en sí, sino que son generadas y completadas
-con el fin de alcanzar algún objetivo o para solucionar algún
-problema. El contexto en el que trabajan los estudiantes debe ser un
-proyecto con dificultades reales por enfrentar.
-
 ## ¿Porqué un curso democrático?
 
 De acuerdo a la [Escuela para la paz, de la Universidad Autónoma de
